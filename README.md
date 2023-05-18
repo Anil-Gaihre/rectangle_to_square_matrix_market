@@ -6,3 +6,9 @@ We can now apply the operations involved in the square matrices in the CSR data 
 The code uses Eigen library. It is generally avaialable as a modules in Supercomputers. For Local servers installation of the library may be needed.
 
 Note: The code is a First version. May have issues. Suggestions or issue reports are appreciated. 
+
+
+Compile and run:
+./compile.sh
+
+(The input file is modified inside the .cpp file for now)
